@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">BuseTaxi</string>
+    <string name="email">Your Email</string>
+    <string name="password">Your Password</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_rider_main">RiderMain</string>
+    <string name="positive_button">Sure</string>
+    <string name="decision">You are about to request an emergency response</string>
+    <string name="negative_button">Cancel</string>
+    <string name="alert_tiltle">Emergency Request</string>
+    <string name="alert_decision"></string>
+    <string name="success_decision">Authority alerted</string>
+    <string name="success_alert">Successfull</string>
+    <string name="error_decision">An error occured try again</string>
+    <string name="error_alert">Error Result</string>
+    <string name="title_activity_dashboard">BuseTaxi</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_driver_profile">DriverProfile</string>
+</resources>
